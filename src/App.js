@@ -6,6 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
     
+    <p>(updated)</p>
         <p className="paragraph">
         Hello this is the first word from react
         </p>
